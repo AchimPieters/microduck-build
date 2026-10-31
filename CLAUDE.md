@@ -30,7 +30,7 @@ Waarom: de bouw moet **aantoonbaar kunnen lopen**, Pollens software gebruiken, a
 
 | Deel | Inhoud | Status |
 |---|---|---|
-| Part 5 | Opnieuw beginnen: begrippen, veiligheid, gereedschap, bestellen, printen | Geschreven (Desktop) |
+| Part 5 | Opnieuw beginnen: begrippen, veiligheid, gereedschap, bestellen, printen | Gepubliceerd |
 | Part 6 | Onderdelen binnen: uitpakken, controleren, servo-ID's instellen | Nog te doen |
 | Part 7 | Benen bouwen (ID 10-14 rechts, 20-24 links) | Nog te doen |
 | Part 8 | Romp, accuhouder, HUB en IMU | Nog te doen |
@@ -42,11 +42,12 @@ Een deel wordt pas geschreven **nadat de stap echt is uitgevoerd**, met echte fo
 
 ## 5. Bestanden in deze map
 
-- `onderzoek-duck-keuze.md`: alle research en de vergelijking van builds.
-- `bouwplan-kissqy.md`: uitvoeringsplan, HUB-onderzoek, gamepad, doorstuurservices.
-- `bestellijst-kissqy.md`: de bestellijst (Taobao-links, aantallen, varianten, vragen aan de verkoper).
-- `part1-the-plan.md`, `part2-the-hardware.md`, `part4-too-many-ducks.md`: eerdere delen (verouderd waar het de XGO-Duck betreft).
-- Part 5: `~/Desktop/microduck-build-part-5-starting-over.md`.
+- `notes/onderzoek-duck-keuze.md`: alle research en de vergelijking van builds.
+- `notes/bouwplan-kissqy.md`: uitvoeringsplan, HUB-onderzoek, gamepad, doorstuurservices.
+- `notes/bestellijst-kissqy.md`: de bestellijst (Taobao-links, aantallen, varianten, vragen aan de verkoper).
+- `blog/part1-the-plan.md`, `blog/part2-the-hardware.md`, `blog/part4-too-many-ducks.md`: concepten van eerdere delen (verouderd waar het de XGO-Duck betreft). De gepubliceerde versies staan in de README.
+- `print-files/`: kissqy's FrankenDuck-printset met Engelse bestandsnamen (`NAME-MAP.txt` toont de Chinese originelen).
+- Part 5 is gepubliceerd op de website (link in de README).
 
 ## 6. Vaste kernfeiten (geverifieerd in de kissqy-gids, 2026-10-31)
 
@@ -62,7 +63,7 @@ Een deel wordt pas geschreven **nadat de stap echt is uitgevoerd**, met echte fo
 
 ## 7. Open punten (nog niet opgelost)
 
-- **HUB**: geen koopverwijzing. Eerst kissqy vragen (bericht staat in `bouwplan-kissqy.md`). Zonder HUB geen bouw.
+- **HUB**: geen koopverwijzing. Eerst kissqy vragen (bericht staat in `notes/bouwplan-kissqy.md`). Zonder HUB geen bouw.
 - **Accucontacten**: onderdeel onbekend.
 - AMP2.0 of EH2.5-versie van HAT en IMU: AMP2.0 bestellen en bevestigen.
 - Of het GameSir Nova 2 Lite-pad koppelt met de console: niet bevestigd. Terugval: Xbox-pad.

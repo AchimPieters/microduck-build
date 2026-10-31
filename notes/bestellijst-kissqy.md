@@ -36,7 +36,7 @@ De kosten laat ik buiten beschouwing. Dat hangt af van waar je woont en welke do
 | Dubbele lader voor NP-F serie | 1 | USB-C of netvoeding |
 | Gamepad, Xbox-modus en Bluetooth | 1 | GameSir Nova 2 Lite. Zet hem in Xbox-modus. |
 | TPU-filament 95A | 250 g | Voor de twee zolen |
-| PLA-filament | ca. 1 kg of meer | Kleuren naar keuze, zie `bouwplan-kissqy.md` |
+| PLA-filament | ca. 1 kg of meer | Kleuren naar keuze, zie `bouwplan-kissqy.md` (zelfde map) |
 
 ## C. Vragen aan de verkoper (kissqy)
 
@@ -45,7 +45,7 @@ De kosten laat ik buiten beschouwing. Dat hangt af van waar je woont en welke do
 3. Welke versie van HAT en IMU past bij **AMP2.0-servokabels**? Zit de speakerconnector erbij?
 4. Kan alles samen naar mijn **doorstuurmagazijn**?
 
-Een kant-en-klaar bericht staat in `bouwplan-kissqy.md`.
+Een kant-en-klaar bericht staat in `bouwplan-kissqy.md` (zelfde map).
 
 ## D. Gereedschap
 
